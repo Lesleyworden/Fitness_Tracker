@@ -20,4 +20,4 @@ A user can navigate to the dashboard to see a graphical representation of their 
 
 Deployed on https://aqueous-badlands-01301.herokuapp.com/   and  https://github.com/Lesleyworden/Fitness_Tracker
 
-![Fitness Tracker Dashboard Example](https://github.com/Lesleyworden/Fitness_Tracker/blob/main/public/images/Dashboard.PNG)
+![Fitness Tracker Dashboard Example](https://github.com/Lesleyworden/Fitness_Tracker/blob/master/public/images/Dashboard.png)
