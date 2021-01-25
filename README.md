@@ -10,11 +10,11 @@ When a user navigates to the homepage, they will be presented with a summary of 
 ## Adding Exercises
 After selecting to start or continue a workout, the user will be asked to select an exercise type (resistance or cardio) and input data about their exercise. To add an exercise
 
-Select an exercise type from the drop down menu.
-Enter an exercise name.
-Fill out the remaining fields for that exercise type.
-Once all fields are filled, the buttons to complete the workout or add that exercise will be activated. Click "Complete" to finish the workout and navigate to the home page or "Add Exercise" to remain on this page and continue adding exercises to this workout
-Dashboard
+1. Select an exercise type from the drop down menu.
+2. Enter an exercise name.
+3. Fill out the remaining fields for that exercise type.
+4. Once all fields are filled, the buttons to complete the workout or add that exercise will be activated. Click "Complete" to finish the workout and navigate to the home page or "Add Exercise" to remain on this page and continue adding exercises to this workout
+## Dashboard
 A user can navigate to the dashboard to see a graphical representation of their past seven workouts, including a line chart showing workout time in minutes, a bar chart of total weight per workout, and a set of pie charts detailing how much time was spent on each exercise type.
 
 
