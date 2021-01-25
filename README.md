@@ -1,13 +1,13 @@
-Fitness Tracker
+### Fitness Tracker
 
-Description
+### Description
 This is a simple exercise tracking app built with MongoDB and express that allows the user to track their daily workouts and maintain a dashboard which describes their workout type, duration, and weight, including tracking multiple workouts per day.
 
-How To Use
-Home Page
+### How To Use
+## Home Page
 When a user navigates to the homepage, they will be presented with a summary of their most recent workout and the option to either continue that workout or start a new one. Select "Continue Workout" to add more exercises to the most recent workout, or select "New Workout" to start a new exercise set.
 
-Adding Exercises
+## Adding Exercises
 After selecting to start or continue a workout, the user will be asked to select an exercise type (resistance or cardio) and input data about their exercise. To add an exercise
 
 Select an exercise type from the drop down menu.
